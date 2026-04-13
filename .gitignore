@@ -1,0 +1,14 @@
+.DS_Store
+*.log
+*.zip
+*.tar.gz
+*.sql
+*.bak
+*.tmp
+.env
+.env.*
+node_modules/
+vendor/
+.idea/
+.vscode/
+debug.log
